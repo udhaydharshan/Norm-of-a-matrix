@@ -49,7 +49,8 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix,2-Norm of a Matrix,3-Infinity Norm of a Matrix 
-<img width="1366" height="2597" alt="screencapture-lms2-ai-saveetha-in-mod-quiz-review-php-2026-05-24-17_35_16" src="https://github.com/user-attachments/assets/b27b1d5b-387b-4273-8a9e-8197de661a73" />
+<img width="1366" height="2597" alt="screencapture-lms2-ai-saveetha-in-mod-quiz-review-php-2026-05-24-17_36_52" src="https://github.com/user-attachments/assets/5ac8e614-79fa-45d2-a3d0-f48b897fe6c8" />
+
 
 
 
